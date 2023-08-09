@@ -5,7 +5,7 @@ import { BrowserRouter } from "react-router-dom";
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <BrowserRouter basename="likelion11th">
+  <BrowserRouter basename="Netflix_Clone_Coding">
     <App />
   </BrowserRouter>
 );
