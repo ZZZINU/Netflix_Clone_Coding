@@ -2,7 +2,7 @@
   "name": "fe-netflix-clone-coding",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ZZZINU.github.io/Netflix_Clone_Coding",
+  "homepage": "https://ZZZINU.github.io/Netflix_Clone_Coding/",
   "type": "module",
   "scripts": {
     "dev": "vite",
